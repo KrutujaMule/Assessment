@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+        background: hsl(233, 47%, 7%);
+        margin: 0px;
+        padding: 0px;
+}
+
+.container{
+    margin: 70px 0px 0px 240px;
+        height: 400px;
+        width: 700px;
+}
+
+.quote{
+    background-color:rgb(6, 134, 218);
+    border: 4px solid black;
+    padding: 100px;
+    font-family: 'Anton', Times, serif;
+    font-size: 20px;
+}
+
+h1.title{
+    color: aliceblue;
+    text-align: center;
+    margin: 70px;
+    font-size: 30px;
+}
+
+button.btn{
+    height:35px;
+    width: 100%;
+    padding: 4px;
+    font-size: 18px;
+    cursor: pointer;
+    color: rgba(240, 248, 255, 0.53);
+    border: 4px solid black;
+    background-color: rgb(30, 37, 44);
+}
